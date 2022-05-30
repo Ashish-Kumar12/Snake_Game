@@ -1,0 +1,16 @@
+
+SCREEN_SIZE = 600
+
+ALIGNMENT = "center"
+FONT = ("Courier", 24, "normal")
+
+STARTING_COORDINATES = [(0, 0), (-20, 0), (-40, 0)]
+MOVE_DISTANCE = 20
+SPEED = 0.1
+UP = 90
+DOWN = 270
+LEFT = 180
+RIGHT = 0
+
+BOUNDARY = SCREEN_SIZE//2 - 30
+COLLISION = 15
